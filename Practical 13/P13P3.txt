@@ -1,0 +1,7 @@
+3 
+(a) Returns none as the argument print max is not taking in anything - has no return value
+(b) Semantic error, program doesn't run - issue, but it is being ignored
+(c) Program returns <function print_max at 0x1056026a8> - Trying to print something but calls the error 
+
+
+

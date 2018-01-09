@@ -1,0 +1,2 @@
+Using import time, I started the time in both if conditions and printed time after the if condition finished for each program.
+When calculating the factorial of 100 using, it takes 0.18392586708068848 seconds using recusion and 0.2032017707824707 seconds not using recursion.

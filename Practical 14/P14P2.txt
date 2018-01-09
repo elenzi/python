@@ -1,0 +1,4 @@
+When inputting 999 using the recursion method, I get the following semantic error "RecursionError: maximum recursion depth exceeded in comparison"
+
+I am able to go beyond 1000 using the non recursive method.
+
